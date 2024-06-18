@@ -1,0 +1,128 @@
+```yaml
+personal_information:
+  name: Natalia García
+  date_of_birth: 14/08/1990
+  place_of_birth: Barcelona, Spain
+  nationality: Spanish
+  residence: Gran Via de les Corts Catalanes, 966 3º 4ª, Barcelona, Spain
+  telephone:
+    - +34 935391574
+    - +34 627841953
+  email: nataliagarciavila@gmail.com
+
+education:
+  - institution: UOC University
+    degree: Degree in Business Management and Administration
+    status: Currently enrolled
+  - institution: LCI University of Design
+    period: September 2017 - April 2019
+  - institution: LCI University of Design
+    period: July 2016 - July 2017
+  - institution: LCI University of Design
+    period: September 2013 - June 2016
+    description: 
+      - External Industrial Patternship of Women and Industrial Scaling
+      - Knowledge of the Felicidad Duce’s patternship method
+      - Preparation of the bases of different patterns and their transformations
+  - institution: EATM Escola d’Arts i Tècniques de la Moda
+    period: September - June 2010
+    degree:
+      - FPGS Higher Degree in Personal Image Consulting
+      - Postgraduate in Styling and Trends
+
+professional_profile:
+  description: >
+    Dynamic, positive, and responsible person with strong decision-making
+    skills. Excellent dialogue and negotiation skills, with a love for customer
+    interaction and teamwork. Committed to achieving goals and delivering
+    high-quality results.
+
+work_experience:
+  - position: Customer Service
+    company: Omya S.L.U
+    period: November 2023 - Currently
+    responsibilities: 
+      - Customer service for Benelux, UK, and Northern Countries
+      - Management of complaints, credit, and debit notes or documentation requests through Salesforce
+      - Sending emails with requested documentation regarding purchase orders, safety data sheets, technical data sheets, and certificates
+      - Issuing intercompany invoices, credit notes, and debit notes through SAP
+      - Opening tickets and cases in Salesforce to request updates to SDS or certificates
+      - Management of return orders through SAP
+  - position: Sales Support
+    company: Universal Robots
+    period: September 2022 - May 2023
+    responsibilities: 
+      - Management of sales orders for distributors in Southern Europe, Middle East, and South Africa
+      - Control of logistics and robot stock at the warehouse
+      - Management of robot loans for events and remote assistance for special deliveries
+      - Support for the accounting department with delayed payments and checking distributors' and partners' credit accounts
+      - Management of licenses for export and import goods
+      - Customer service for distributors and customers
+      - Marketing support in lead qualification and management
+  - position: Backoffice
+    company: Iberfluid Instruments
+    period: May 2022 - August 2022
+    responsibilities: 
+      - Commercial support for the valve and spare parts department of industrial machinery
+      - Creation and follow-up of offers, stock control, and order preparation
+      - Purchase of material from the factory
+      - Preparation of portfolios with necessary certificates for machinery solutions or engineering infrastructure
+      - Customer service
+  - position: Manager and Administrator
+    company: Haya Real Estate
+    period: June 2021 - April 2022
+    responsibilities: 
+      - Management and administration of more than 3,000 properties in Catalunya
+      - Collaboration with 64 real estate agencies and partners
+      - Management and administration of more than 5 property banking portfolios
+      - Sales follow-up, setting, and achieving monthly sales goals, and KPI measurement
+      - Commercial sales routes for major bank properties
+      - Follow-up on adjustments and reforms of properties
+      - Follow-up on upcoming properties and offers from potential buyers
+      - Monthly follow-up on current sales and deals with investors
+  - position: Sales Responsible
+    company: Century 21 New Estate
+    period: February 2018 - May 2019
+    responsibilities: 
+      - Property collection for the agency and investors
+      - Showing properties to potential buyers
+      - Organization and administration of visit schedules and presentation of services
+      - Customer service and call reception
+      - Closing deals with potential investors
+      - Preparation of documents such as marketing materials, market analysis, floor valuations, and exclusivity contracts
+  - position: Telemarketer and Administrative
+    company: Gas Natural (call center)
+    period: January 2021 - April 2021
+    responsibilities: 
+      - Customer service and hiring services
+      - Assistant in administrative functions
+      - Information and accident tracking
+      - Problem detection and contact with external services
+      - Management of computer systems and programs designed for Natural Gas
+      - Sending reports to central
+  - position: Fashion Stylist and Administration Assistant
+    company: Beñat Yanci (stylist & art director)
+    period: September 2010 - October 2014
+    responsibilities: 
+      - Control of receipt and shipment of merchandise
+      - Administrative and customer service functions
+      - Creation of fashion editorials for audiovisual media and press
+      - Contact with sponsors for national and international media
+      - Assistance in styling for media
+      - Administrative functions for press
+
+skills:
+  languages:
+    - Catalan: native
+    - Spanish: native
+    - English: C1 (Cambridge Certificate)
+    - French: intermediate
+  computer_systems:
+    - Word
+    - Excel
+    - SalesForce
+    - Aqua ebs
+    - Adobe
+    - Photoshop
+    - Illustrator
+```
